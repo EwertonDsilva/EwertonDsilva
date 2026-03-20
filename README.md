@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ewerton Silva!
 
-<!--
-**EwertonDsilva/EwertonDsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Profissional de TI com experiência em **Infraestrutura de Redes** e apaixonado por **Desenvolvimento de Software**. Atualmente estudando programação e expandindo meus conhecimentos para me tornar um engenheiro de software.
+ 
+---
 
-Here are some ideas to get you started:
+### 🌐 Infraestrutura de Redes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=Black)
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+![GLPI](https://img.shields.io/badge/GLPI-004B8D?style=for-the-badge&logo=glpi&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+### 🚀 Aprendendo
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
