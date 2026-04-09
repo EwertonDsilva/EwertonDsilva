@@ -18,7 +18,7 @@
 
 ---
 ### 🚀 Aprendendo
-![C#](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
